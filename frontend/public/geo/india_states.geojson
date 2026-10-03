@@ -1,0 +1,1921 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-MP",
+        "name": "Madhya Pradesh",
+        "type": "State",
+        "capital": "Bhopal",
+        "center": [
+          23.25,
+          77.41
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 1,
+        "lightning_strikes_60m": 42
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.0,
+              22.0
+            ],
+            [
+              74.5,
+              23.5
+            ],
+            [
+              75.0,
+              24.8
+            ],
+            [
+              76.5,
+              25.5
+            ],
+            [
+              78.0,
+              26.5
+            ],
+            [
+              78.8,
+              26.7
+            ],
+            [
+              79.2,
+              25.5
+            ],
+            [
+              80.5,
+              25.3
+            ],
+            [
+              81.8,
+              25.0
+            ],
+            [
+              82.8,
+              24.1
+            ],
+            [
+              82.5,
+              23.0
+            ],
+            [
+              81.5,
+              22.5
+            ],
+            [
+              80.5,
+              21.6
+            ],
+            [
+              78.8,
+              21.5
+            ],
+            [
+              77.0,
+              21.4
+            ],
+            [
+              75.5,
+              21.3
+            ],
+            [
+              74.5,
+              21.5
+            ],
+            [
+              74.0,
+              22.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-MH",
+        "name": "Maharashtra",
+        "type": "State",
+        "capital": "Mumbai",
+        "center": [
+          19.75,
+          75.71
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 1,
+        "lightning_strikes_60m": 28
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6,
+              20.0
+            ],
+            [
+              73.5,
+              21.5
+            ],
+            [
+              76.0,
+              21.5
+            ],
+            [
+              78.5,
+              21.6
+            ],
+            [
+              80.3,
+              21.5
+            ],
+            [
+              80.8,
+              19.5
+            ],
+            [
+              79.5,
+              18.8
+            ],
+            [
+              78.0,
+              18.0
+            ],
+            [
+              77.0,
+              18.3
+            ],
+            [
+              76.0,
+              17.5
+            ],
+            [
+              74.5,
+              15.8
+            ],
+            [
+              73.7,
+              15.8
+            ],
+            [
+              73.0,
+              17.5
+            ],
+            [
+              72.8,
+              19.0
+            ],
+            [
+              72.6,
+              20.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-RJ",
+        "name": "Rajasthan",
+        "type": "State",
+        "capital": "Jaipur",
+        "center": [
+          27.02,
+          74.21
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              69.5,
+              27.0
+            ],
+            [
+              71.0,
+              29.0
+            ],
+            [
+              73.5,
+              30.2
+            ],
+            [
+              75.5,
+              28.5
+            ],
+            [
+              77.5,
+              27.8
+            ],
+            [
+              77.0,
+              26.5
+            ],
+            [
+              76.5,
+              25.5
+            ],
+            [
+              75.0,
+              24.8
+            ],
+            [
+              74.0,
+              24.0
+            ],
+            [
+              73.0,
+              24.5
+            ],
+            [
+              71.0,
+              24.5
+            ],
+            [
+              70.5,
+              25.5
+            ],
+            [
+              69.5,
+              27.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-UP",
+        "name": "Uttar Pradesh",
+        "type": "State",
+        "capital": "Lucknow",
+        "center": [
+          26.84,
+          80.94
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 1,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2,
+              29.8
+            ],
+            [
+              78.5,
+              30.0
+            ],
+            [
+              80.0,
+              28.8
+            ],
+            [
+              82.0,
+              27.8
+            ],
+            [
+              84.0,
+              27.3
+            ],
+            [
+              84.5,
+              26.0
+            ],
+            [
+              83.5,
+              24.5
+            ],
+            [
+              82.8,
+              24.1
+            ],
+            [
+              81.8,
+              25.0
+            ],
+            [
+              80.5,
+              25.3
+            ],
+            [
+              79.2,
+              25.5
+            ],
+            [
+              78.0,
+              26.5
+            ],
+            [
+              77.5,
+              27.8
+            ],
+            [
+              77.2,
+              29.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-GJ",
+        "name": "Gujarat",
+        "type": "State",
+        "capital": "Gandhinagar",
+        "center": [
+          22.25,
+          71.19
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              68.5,
+              23.5
+            ],
+            [
+              71.0,
+              24.5
+            ],
+            [
+              73.0,
+              24.5
+            ],
+            [
+              74.0,
+              22.0
+            ],
+            [
+              73.5,
+              21.0
+            ],
+            [
+              72.6,
+              21.0
+            ],
+            [
+              71.0,
+              20.8
+            ],
+            [
+              69.0,
+              22.2
+            ],
+            [
+              68.8,
+              23.0
+            ],
+            [
+              68.5,
+              23.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-KA",
+        "name": "Karnataka",
+        "type": "State",
+        "capital": "Bengaluru",
+        "center": [
+          15.31,
+          75.71
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.0,
+              15.5
+            ],
+            [
+              75.5,
+              17.0
+            ],
+            [
+              77.0,
+              18.0
+            ],
+            [
+              77.5,
+              15.5
+            ],
+            [
+              78.2,
+              13.8
+            ],
+            [
+              77.5,
+              12.0
+            ],
+            [
+              76.5,
+              11.8
+            ],
+            [
+              75.0,
+              12.5
+            ],
+            [
+              74.2,
+              14.5
+            ],
+            [
+              74.0,
+              15.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-TN",
+        "name": "Tamil Nadu",
+        "type": "State",
+        "capital": "Chennai",
+        "center": [
+          11.12,
+          78.65
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.8,
+              11.5
+            ],
+            [
+              78.0,
+              13.5
+            ],
+            [
+              80.2,
+              13.4
+            ],
+            [
+              79.8,
+              11.8
+            ],
+            [
+              79.8,
+              10.3
+            ],
+            [
+              79.0,
+              9.2
+            ],
+            [
+              77.5,
+              8.1
+            ],
+            [
+              77.0,
+              9.0
+            ],
+            [
+              76.5,
+              10.2
+            ],
+            [
+              76.8,
+              11.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-WB",
+        "name": "West Bengal",
+        "type": "State",
+        "capital": "Kolkata",
+        "center": [
+          22.98,
+          87.85
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.8,
+              27.2
+            ],
+            [
+              88.5,
+              27.2
+            ],
+            [
+              89.8,
+              26.5
+            ],
+            [
+              88.8,
+              25.5
+            ],
+            [
+              88.8,
+              22.0
+            ],
+            [
+              87.5,
+              21.6
+            ],
+            [
+              86.8,
+              22.5
+            ],
+            [
+              86.5,
+              24.0
+            ],
+            [
+              87.8,
+              25.0
+            ],
+            [
+              87.8,
+              27.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-TG",
+        "name": "Telangana",
+        "type": "State",
+        "capital": "Hyderabad",
+        "center": [
+          17.87,
+          79.11
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3,
+              17.5
+            ],
+            [
+              78.5,
+              19.5
+            ],
+            [
+              80.0,
+              19.0
+            ],
+            [
+              81.0,
+              17.8
+            ],
+            [
+              80.2,
+              16.5
+            ],
+            [
+              78.5,
+              16.0
+            ],
+            [
+              77.3,
+              17.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-AP",
+        "name": "Andhra Pradesh",
+        "type": "State",
+        "capital": "Amaravati",
+        "center": [
+          15.91,
+          79.74
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.0,
+              14.5
+            ],
+            [
+              79.0,
+              16.0
+            ],
+            [
+              81.0,
+              17.8
+            ],
+            [
+              83.5,
+              18.5
+            ],
+            [
+              84.5,
+              19.0
+            ],
+            [
+              83.0,
+              17.5
+            ],
+            [
+              81.5,
+              16.0
+            ],
+            [
+              80.2,
+              13.5
+            ],
+            [
+              79.0,
+              13.0
+            ],
+            [
+              78.0,
+              13.8
+            ],
+            [
+              77.0,
+              14.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-KL",
+        "name": "Kerala",
+        "type": "State",
+        "capital": "Thiruvananthapuram",
+        "center": [
+          10.85,
+          76.27
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.0,
+              12.5
+            ],
+            [
+              76.0,
+              11.8
+            ],
+            [
+              76.8,
+              10.5
+            ],
+            [
+              77.2,
+              8.5
+            ],
+            [
+              76.8,
+              8.3
+            ],
+            [
+              76.0,
+              9.8
+            ],
+            [
+              75.0,
+              12.0
+            ],
+            [
+              75.0,
+              12.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-OR",
+        "name": "Odisha",
+        "type": "State",
+        "capital": "Bhubaneswar",
+        "center": [
+          20.95,
+          85.09
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.5,
+              19.0
+            ],
+            [
+              84.0,
+              22.0
+            ],
+            [
+              86.5,
+              22.5
+            ],
+            [
+              87.2,
+              21.5
+            ],
+            [
+              86.5,
+              20.5
+            ],
+            [
+              85.0,
+              19.5
+            ],
+            [
+              84.0,
+              18.8
+            ],
+            [
+              82.5,
+              19.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-BR",
+        "name": "Bihar",
+        "type": "State",
+        "capital": "Patna",
+        "center": [
+          25.09,
+          85.31
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.5,
+              27.3
+            ],
+            [
+              85.5,
+              27.3
+            ],
+            [
+              87.5,
+              26.5
+            ],
+            [
+              87.8,
+              25.0
+            ],
+            [
+              86.5,
+              24.5
+            ],
+            [
+              84.0,
+              24.5
+            ],
+            [
+              83.5,
+              25.5
+            ],
+            [
+              83.5,
+              27.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-PB",
+        "name": "Punjab",
+        "type": "State",
+        "capital": "Chandigarh",
+        "center": [
+          31.14,
+          75.34
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.0,
+              30.0
+            ],
+            [
+              75.0,
+              32.2
+            ],
+            [
+              76.2,
+              32.0
+            ],
+            [
+              76.5,
+              30.5
+            ],
+            [
+              75.0,
+              29.8
+            ],
+            [
+              74.0,
+              30.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-HR",
+        "name": "Haryana",
+        "type": "State",
+        "capital": "Chandigarh",
+        "center": [
+          29.05,
+          76.08
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.5,
+              29.5
+            ],
+            [
+              76.8,
+              30.5
+            ],
+            [
+              77.5,
+              29.8
+            ],
+            [
+              77.2,
+              28.0
+            ],
+            [
+              75.8,
+              27.8
+            ],
+            [
+              74.5,
+              29.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-DL",
+        "name": "Delhi",
+        "type": "Union Territory",
+        "capital": "New Delhi",
+        "center": [
+          28.61,
+          77.2
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.85,
+              28.6
+            ],
+            [
+              77.1,
+              28.88
+            ],
+            [
+              77.35,
+              28.75
+            ],
+            [
+              77.3,
+              28.45
+            ],
+            [
+              77.05,
+              28.4
+            ],
+            [
+              76.85,
+              28.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-AS",
+        "name": "Assam",
+        "type": "State",
+        "capital": "Dispur",
+        "center": [
+          26.2,
+          92.93
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.0,
+              26.0
+            ],
+            [
+              92.0,
+              27.0
+            ],
+            [
+              94.5,
+              27.8
+            ],
+            [
+              95.8,
+              27.5
+            ],
+            [
+              94.0,
+              25.8
+            ],
+            [
+              92.5,
+              24.5
+            ],
+            [
+              91.0,
+              25.5
+            ],
+            [
+              90.0,
+              26.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-JH",
+        "name": "Jharkhand",
+        "type": "State",
+        "capital": "Ranchi",
+        "center": [
+          23.61,
+          85.27
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.5,
+              24.5
+            ],
+            [
+              85.5,
+              25.0
+            ],
+            [
+              87.5,
+              24.5
+            ],
+            [
+              86.8,
+              22.5
+            ],
+            [
+              84.5,
+              22.0
+            ],
+            [
+              83.5,
+              24.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-CT",
+        "name": "Chhattisgarh",
+        "type": "State",
+        "capital": "Raipur",
+        "center": [
+          21.27,
+          81.86
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.5,
+              21.6
+            ],
+            [
+              82.5,
+              23.0
+            ],
+            [
+              83.8,
+              23.5
+            ],
+            [
+              83.5,
+              21.0
+            ],
+            [
+              81.5,
+              18.0
+            ],
+            [
+              80.8,
+              19.5
+            ],
+            [
+              80.5,
+              21.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-JK",
+        "name": "Jammu & Kashmir",
+        "type": "Union Territory",
+        "capital": "Srinagar",
+        "center": [
+          33.77,
+          75.57
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5,
+              33.5
+            ],
+            [
+              74.5,
+              34.8
+            ],
+            [
+              75.8,
+              34.5
+            ],
+            [
+              76.0,
+              32.8
+            ],
+            [
+              74.5,
+              32.5
+            ],
+            [
+              73.5,
+              33.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-LA",
+        "name": "Ladakh",
+        "type": "Union Territory",
+        "capital": "Leh",
+        "center": [
+          34.15,
+          77.57
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8,
+              34.5
+            ],
+            [
+              77.5,
+              36.0
+            ],
+            [
+              79.2,
+              34.5
+            ],
+            [
+              78.8,
+              32.8
+            ],
+            [
+              76.5,
+              32.8
+            ],
+            [
+              75.8,
+              34.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-HP",
+        "name": "Himachal Pradesh",
+        "type": "State",
+        "capital": "Shimla",
+        "center": [
+          31.1,
+          77.17
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8,
+              32.5
+            ],
+            [
+              77.0,
+              33.0
+            ],
+            [
+              78.5,
+              32.0
+            ],
+            [
+              78.5,
+              31.0
+            ],
+            [
+              77.0,
+              30.8
+            ],
+            [
+              75.8,
+              32.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-UT",
+        "name": "Uttarakhand",
+        "type": "State",
+        "capital": "Dehradun",
+        "center": [
+          30.06,
+          79.01
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8,
+              30.5
+            ],
+            [
+              79.2,
+              31.2
+            ],
+            [
+              80.8,
+              30.5
+            ],
+            [
+              80.2,
+              28.8
+            ],
+            [
+              78.8,
+              29.5
+            ],
+            [
+              77.8,
+              30.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-GA",
+        "name": "Goa",
+        "type": "State",
+        "capital": "Panaji",
+        "center": [
+          15.29,
+          74.12
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7,
+              15.8
+            ],
+            [
+              74.2,
+              15.7
+            ],
+            [
+              74.3,
+              14.9
+            ],
+            [
+              73.8,
+              14.9
+            ],
+            [
+              73.7,
+              15.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-TR",
+        "name": "Tripura",
+        "type": "State",
+        "capital": "Agartala",
+        "center": [
+          23.94,
+          91.98
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.1,
+              24.2
+            ],
+            [
+              92.2,
+              24.4
+            ],
+            [
+              92.3,
+              23.0
+            ],
+            [
+              91.3,
+              23.0
+            ],
+            [
+              91.1,
+              24.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-ML",
+        "name": "Meghalaya",
+        "type": "State",
+        "capital": "Shillong",
+        "center": [
+          25.46,
+          91.36
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.0,
+              25.8
+            ],
+            [
+              92.5,
+              25.8
+            ],
+            [
+              92.8,
+              25.0
+            ],
+            [
+              90.2,
+              25.0
+            ],
+            [
+              90.0,
+              25.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-MN",
+        "name": "Manipur",
+        "type": "State",
+        "capital": "Imphal",
+        "center": [
+          24.66,
+          93.9
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.1,
+              25.5
+            ],
+            [
+              94.5,
+              25.5
+            ],
+            [
+              94.5,
+              24.0
+            ],
+            [
+              93.1,
+              24.0
+            ],
+            [
+              93.1,
+              25.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-NL",
+        "name": "Nagaland",
+        "type": "State",
+        "capital": "Kohima",
+        "center": [
+          26.15,
+          94.56
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.5,
+              26.8
+            ],
+            [
+              94.8,
+              26.8
+            ],
+            [
+              94.8,
+              25.5
+            ],
+            [
+              93.5,
+              25.5
+            ],
+            [
+              93.5,
+              26.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-MZ",
+        "name": "Mizoram",
+        "type": "State",
+        "capital": "Aizawl",
+        "center": [
+          23.16,
+          92.93
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.2,
+              24.2
+            ],
+            [
+              93.3,
+              24.2
+            ],
+            [
+              93.0,
+              22.0
+            ],
+            [
+              92.3,
+              22.0
+            ],
+            [
+              92.2,
+              24.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-AR",
+        "name": "Arunachal Pradesh",
+        "type": "State",
+        "capital": "Itanagar",
+        "center": [
+          28.21,
+          94.72
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.0,
+              27.5
+            ],
+            [
+              95.0,
+              29.2
+            ],
+            [
+              97.0,
+              28.5
+            ],
+            [
+              96.0,
+              27.0
+            ],
+            [
+              93.5,
+              27.0
+            ],
+            [
+              92.0,
+              27.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-SK",
+        "name": "Sikkim",
+        "type": "State",
+        "capital": "Gangtok",
+        "center": [
+          27.53,
+          88.51
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.0,
+              27.8
+            ],
+            [
+              88.8,
+              28.0
+            ],
+            [
+              88.9,
+              27.2
+            ],
+            [
+              88.1,
+              27.1
+            ],
+            [
+              88.0,
+              27.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-PY",
+        "name": "Puducherry",
+        "type": "Union Territory",
+        "capital": "Puducherry",
+        "center": [
+          11.94,
+          79.8
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.7,
+              11.9
+            ],
+            [
+              80.0,
+              11.9
+            ],
+            [
+              80.0,
+              11.7
+            ],
+            [
+              79.7,
+              11.7
+            ],
+            [
+              79.7,
+              11.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-CH",
+        "name": "Chandigarh",
+        "type": "Union Territory",
+        "capital": "Chandigarh",
+        "center": [
+          30.73,
+          76.77
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.7,
+              30.8
+            ],
+            [
+              76.9,
+              30.8
+            ],
+            [
+              76.9,
+              30.6
+            ],
+            [
+              76.7,
+              30.6
+            ],
+            [
+              76.7,
+              30.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-AN",
+        "name": "Andaman and Nicobar Islands",
+        "type": "Union Territory",
+        "capital": "Port Blair",
+        "center": [
+          11.74,
+          92.65
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.8,
+              13.5
+            ],
+            [
+              93.1,
+              13.3
+            ],
+            [
+              92.9,
+              11.5
+            ],
+            [
+              92.6,
+              11.6
+            ],
+            [
+              92.8,
+              13.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-LD",
+        "name": "Lakshadweep",
+        "type": "Union Territory",
+        "capital": "Kavaratti",
+        "center": [
+          10.56,
+          72.64
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6,
+              11.2
+            ],
+            [
+              72.8,
+              10.5
+            ],
+            [
+              73.6,
+              10.1
+            ],
+            [
+              72.6,
+              8.3
+            ],
+            [
+              72.4,
+              8.3
+            ],
+            [
+              72.6,
+              11.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN-DN",
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "type": "Union Territory",
+        "capital": "Daman",
+        "center": [
+          20.42,
+          72.83
+        ],
+        "thunderstorm_risk": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_60m": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.7,
+              20.6
+            ],
+            [
+              73.1,
+              20.6
+            ],
+            [
+              73.1,
+              20.1
+            ],
+            [
+              72.7,
+              20.1
+            ],
+            [
+              72.7,
+              20.6
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

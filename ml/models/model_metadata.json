@@ -1,0 +1,460 @@
+{
+  "model_name": "TempestIQ Multi-Sensor XGBoost Ensemble",
+  "version": "1.0.0",
+  "task": "Thunderstorm & Lightning Nowcasting",
+  "status": "TRAINED",
+  "training_date": "2026-09-30T10:11:29.743236",
+  "total_samples": 4000,
+  "train_samples": 3200,
+  "test_samples": 800,
+  "features": [
+    {
+      "name": "radar_reflectivity_dbz",
+      "importance": 0.5905
+    },
+    {
+      "name": "lightning_strikes_15m",
+      "importance": 0.157
+    },
+    {
+      "name": "rain_rate_mm_hr",
+      "importance": 0.0586
+    },
+    {
+      "name": "lightning_frequency_min",
+      "importance": 0.0368
+    },
+    {
+      "name": "nwp_cape_j_kg",
+      "importance": 0.0322
+    },
+    {
+      "name": "nwp_lifted_index",
+      "importance": 0.0238
+    },
+    {
+      "name": "satellite_ir_temp_k",
+      "importance": 0.0218
+    },
+    {
+      "name": "cloud_cooling_rate_k_hr",
+      "importance": 0.0169
+    },
+    {
+      "name": "nwp_shear_0_6km_mps",
+      "importance": 0.0094
+    },
+    {
+      "name": "radar_echo_top_km",
+      "importance": 0.0092
+    },
+    {
+      "name": "precipitable_water_mm",
+      "importance": 0.0078
+    },
+    {
+      "name": "nwp_cin_j_kg",
+      "importance": 0.0069
+    },
+    {
+      "name": "surface_pressure_hpa",
+      "importance": 0.0063
+    },
+    {
+      "name": "relative_humidity_pct",
+      "importance": 0.0058
+    },
+    {
+      "name": "surface_temp_c",
+      "importance": 0.0055
+    },
+    {
+      "name": "radar_velocity_mps",
+      "importance": 0.0052
+    },
+    {
+      "name": "nwp_k_index",
+      "importance": 0.0034
+    },
+    {
+      "name": "surface_dew_point_c",
+      "importance": 0.003
+    }
+  ],
+  "metrics": {
+    "30m": {
+      "precision": 0.9817,
+      "recall": 0.9969,
+      "f1_score": 0.9892,
+      "roc_auc": 0.9997,
+      "brier_score": 0.0073,
+      "pod": 0.9969,
+      "far": 0.0183,
+      "csi": 0.9787,
+      "confusion_matrix": {
+        "true_negatives": 472,
+        "false_positives": 6,
+        "false_negatives": 1,
+        "true_positives": 321
+      },
+      "roc_curve": [
+        {
+          "fpr": 0.0,
+          "tpr": 0.0
+        },
+        {
+          "fpr": 0.0,
+          "tpr": 0.062
+        },
+        {
+          "fpr": 0.0,
+          "tpr": 0.217
+        },
+        {
+          "fpr": 0.004,
+          "tpr": 0.978
+        },
+        {
+          "fpr": 0.01,
+          "tpr": 0.994
+        },
+        {
+          "fpr": 0.262,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.356,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.406,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.433,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.458,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.506,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.556,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.611,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.646,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.674,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.722,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.759,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.793,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.816,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.833,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.874,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.893,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.914,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.954,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 1.0,
+          "tpr": 1.0
+        }
+      ]
+    },
+    "60m": {
+      "precision": 0.9038,
+      "recall": 0.9069,
+      "f1_score": 0.9053,
+      "roc_auc": 0.9877,
+      "brier_score": 0.0456,
+      "pod": 0.9069,
+      "far": 0.0962,
+      "csi": 0.827,
+      "confusion_matrix": {
+        "true_negatives": 482,
+        "false_positives": 28,
+        "false_negatives": 27,
+        "true_positives": 263
+      },
+      "roc_curve": [
+        {
+          "fpr": 0.0,
+          "tpr": 0.0
+        },
+        {
+          "fpr": 0.0,
+          "tpr": 0.393
+        },
+        {
+          "fpr": 0.002,
+          "tpr": 0.672
+        },
+        {
+          "fpr": 0.004,
+          "tpr": 0.703
+        },
+        {
+          "fpr": 0.008,
+          "tpr": 0.714
+        },
+        {
+          "fpr": 0.012,
+          "tpr": 0.762
+        },
+        {
+          "fpr": 0.016,
+          "tpr": 0.779
+        },
+        {
+          "fpr": 0.02,
+          "tpr": 0.8
+        },
+        {
+          "fpr": 0.029,
+          "tpr": 0.807
+        },
+        {
+          "fpr": 0.031,
+          "tpr": 0.81
+        },
+        {
+          "fpr": 0.035,
+          "tpr": 0.866
+        },
+        {
+          "fpr": 0.043,
+          "tpr": 0.876
+        },
+        {
+          "fpr": 0.045,
+          "tpr": 0.89
+        },
+        {
+          "fpr": 0.051,
+          "tpr": 0.893
+        },
+        {
+          "fpr": 0.053,
+          "tpr": 0.907
+        },
+        {
+          "fpr": 0.057,
+          "tpr": 0.91
+        },
+        {
+          "fpr": 0.059,
+          "tpr": 0.924
+        },
+        {
+          "fpr": 0.061,
+          "tpr": 0.928
+        },
+        {
+          "fpr": 0.069,
+          "tpr": 0.952
+        },
+        {
+          "fpr": 0.071,
+          "tpr": 0.969
+        },
+        {
+          "fpr": 0.094,
+          "tpr": 0.972
+        },
+        {
+          "fpr": 0.098,
+          "tpr": 0.986
+        },
+        {
+          "fpr": 0.11,
+          "tpr": 0.99
+        },
+        {
+          "fpr": 0.114,
+          "tpr": 0.997
+        },
+        {
+          "fpr": 1.0,
+          "tpr": 1.0
+        }
+      ]
+    },
+    "120m": {
+      "precision": 0.8241,
+      "recall": 0.781,
+      "f1_score": 0.802,
+      "roc_auc": 0.9608,
+      "brier_score": 0.0721,
+      "pod": 0.781,
+      "far": 0.1759,
+      "csi": 0.6694,
+      "confusion_matrix": {
+        "true_negatives": 555,
+        "false_positives": 35,
+        "false_negatives": 46,
+        "true_positives": 164
+      },
+      "roc_curve": [
+        {
+          "fpr": 0.0,
+          "tpr": 0.0
+        },
+        {
+          "fpr": 0.002,
+          "tpr": 0.076
+        },
+        {
+          "fpr": 0.005,
+          "tpr": 0.305
+        },
+        {
+          "fpr": 0.01,
+          "tpr": 0.405
+        },
+        {
+          "fpr": 0.017,
+          "tpr": 0.452
+        },
+        {
+          "fpr": 0.02,
+          "tpr": 0.538
+        },
+        {
+          "fpr": 0.024,
+          "tpr": 0.59
+        },
+        {
+          "fpr": 0.032,
+          "tpr": 0.657
+        },
+        {
+          "fpr": 0.039,
+          "tpr": 0.686
+        },
+        {
+          "fpr": 0.044,
+          "tpr": 0.748
+        },
+        {
+          "fpr": 0.053,
+          "tpr": 0.771
+        },
+        {
+          "fpr": 0.063,
+          "tpr": 0.79
+        },
+        {
+          "fpr": 0.068,
+          "tpr": 0.8
+        },
+        {
+          "fpr": 0.078,
+          "tpr": 0.819
+        },
+        {
+          "fpr": 0.088,
+          "tpr": 0.848
+        },
+        {
+          "fpr": 0.1,
+          "tpr": 0.857
+        },
+        {
+          "fpr": 0.114,
+          "tpr": 0.871
+        },
+        {
+          "fpr": 0.119,
+          "tpr": 0.881
+        },
+        {
+          "fpr": 0.124,
+          "tpr": 0.919
+        },
+        {
+          "fpr": 0.137,
+          "tpr": 0.938
+        },
+        {
+          "fpr": 0.164,
+          "tpr": 0.948
+        },
+        {
+          "fpr": 0.173,
+          "tpr": 0.962
+        },
+        {
+          "fpr": 0.178,
+          "tpr": 0.976
+        },
+        {
+          "fpr": 0.19,
+          "tpr": 0.986
+        },
+        {
+          "fpr": 1.0,
+          "tpr": 1.0
+        }
+      ]
+    }
+  },
+  "input_features": [
+    "radar_reflectivity_dbz",
+    "radar_velocity_mps",
+    "radar_echo_top_km",
+    "satellite_ir_temp_k",
+    "cloud_cooling_rate_k_hr",
+    "lightning_strikes_15m",
+    "lightning_frequency_min",
+    "nwp_cape_j_kg",
+    "nwp_cin_j_kg",
+    "nwp_shear_0_6km_mps",
+    "nwp_lifted_index",
+    "nwp_k_index",
+    "precipitable_water_mm",
+    "surface_temp_c",
+    "surface_dew_point_c",
+    "relative_humidity_pct",
+    "surface_pressure_hpa",
+    "rain_rate_mm_hr"
+  ]
+}

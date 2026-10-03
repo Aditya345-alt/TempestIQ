@@ -1,0 +1,3045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP-BPL",
+        "name": "Bhopal",
+        "state": "Madhya Pradesh",
+        "headquarters": "Bhopal",
+        "center": [
+          23.25,
+          77.41
+        ],
+        "risk_level": "HIGH",
+        "active_storms": 2,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 72
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.734,
+              23.25
+            ],
+            [
+              77.7223,
+              23.4169
+            ],
+            [
+              77.626,
+              23.5964
+            ],
+            [
+              77.41,
+              23.6161
+            ],
+            [
+              77.248,
+              23.5098
+            ],
+            [
+              77.0977,
+              23.4169
+            ],
+            [
+              76.978,
+              23.25
+            ],
+            [
+              77.0676,
+              23.0669
+            ],
+            [
+              77.248,
+              22.9902
+            ],
+            [
+              77.41,
+              22.9161
+            ],
+            [
+              77.626,
+              22.9036
+            ],
+            [
+              77.7524,
+              23.0669
+            ],
+            [
+              77.734,
+              23.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP-IND",
+        "name": "Indore",
+        "state": "Madhya Pradesh",
+        "headquarters": "Indore",
+        "center": [
+          22.71,
+          75.85
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 1,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2393,
+              22.71
+            ],
+            [
+              76.1819,
+              22.8874
+            ],
+            [
+              76.0873,
+              23.0906
+            ],
+            [
+              75.85,
+              23.1552
+            ],
+            [
+              75.6553,
+              23.0222
+            ],
+            [
+              75.5181,
+              22.8874
+            ],
+            [
+              75.3753,
+              22.71
+            ],
+            [
+              75.4336,
+              22.4874
+            ],
+            [
+              75.6553,
+              22.3978
+            ],
+            [
+              75.85,
+              22.3552
+            ],
+            [
+              76.0873,
+              22.3294
+            ],
+            [
+              76.2664,
+              22.4874
+            ],
+            [
+              76.2393,
+              22.71
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP-JBP",
+        "name": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "headquarters": "Jabalpur",
+        "center": [
+          23.18,
+          79.98
+        ],
+        "risk_level": "SEVERE",
+        "active_storms": 1,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 85
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.3984,
+              23.18
+            ],
+            [
+              80.3774,
+              23.3924
+            ],
+            [
+              80.2568,
+              23.624
+            ],
+            [
+              79.98,
+              23.6552
+            ],
+            [
+              79.7708,
+              23.5155
+            ],
+            [
+              79.5826,
+              23.3924
+            ],
+            [
+              79.4264,
+              23.18
+            ],
+            [
+              79.5356,
+              22.9424
+            ],
+            [
+              79.7708,
+              22.8445
+            ],
+            [
+              79.98,
+              22.7552
+            ],
+            [
+              80.2568,
+              22.736
+            ],
+            [
+              80.4244,
+              22.9424
+            ],
+            [
+              80.3984,
+              23.18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP-GWL",
+        "name": "Gwalior",
+        "state": "Madhya Pradesh",
+        "headquarters": "Gwalior",
+        "center": [
+          26.21,
+          78.18
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.6691,
+              26.21
+            ],
+            [
+              78.5807,
+              26.4242
+            ],
+            [
+              78.3675,
+              26.5106
+            ],
+            [
+              78.18,
+              26.5816
+            ],
+            [
+              77.9355,
+              26.6022
+            ],
+            [
+              77.7793,
+              26.4242
+            ],
+            [
+              77.8051,
+              26.21
+            ],
+            [
+              77.8325,
+              26.0242
+            ],
+            [
+              77.9355,
+              25.8178
+            ],
+            [
+              78.18,
+              25.7816
+            ],
+            [
+              78.3675,
+              25.9094
+            ],
+            [
+              78.5275,
+              26.0242
+            ],
+            [
+              78.6691,
+              26.21
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP-UJN",
+        "name": "Ujjain",
+        "state": "Madhya Pradesh",
+        "headquarters": "Ujjain",
+        "center": [
+          23.17,
+          75.78
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1335,
+              23.17
+            ],
+            [
+              76.1151,
+              23.3491
+            ],
+            [
+              76.0136,
+              23.5447
+            ],
+            [
+              75.78,
+              23.5718
+            ],
+            [
+              75.6032,
+              23.4535
+            ],
+            [
+              75.4449,
+              23.3491
+            ],
+            [
+              75.3127,
+              23.17
+            ],
+            [
+              75.4042,
+              22.9691
+            ],
+            [
+              75.6032,
+              22.8865
+            ],
+            [
+              75.78,
+              22.8118
+            ],
+            [
+              76.0136,
+              22.7953
+            ],
+            [
+              76.1558,
+              22.9691
+            ],
+            [
+              76.1335,
+              23.17
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP-SGR",
+        "name": "Sagar",
+        "state": "Madhya Pradesh",
+        "headquarters": "Sagar",
+        "center": [
+          23.83,
+          78.71
+        ],
+        "risk_level": "HIGH",
+        "active_storms": 1,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 72
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.098,
+              23.83
+            ],
+            [
+              79.1184,
+              24.0483
+            ],
+            [
+              78.9696,
+              24.2463
+            ],
+            [
+              78.71,
+              24.2333
+            ],
+            [
+              78.516,
+              24.1411
+            ],
+            [
+              78.3016,
+              24.0483
+            ],
+            [
+              78.1908,
+              23.83
+            ],
+            [
+              78.3328,
+              23.6283
+            ],
+            [
+              78.516,
+              23.5189
+            ],
+            [
+              78.71,
+              23.3933
+            ],
+            [
+              78.9696,
+              23.4137
+            ],
+            [
+              79.0872,
+              23.6283
+            ],
+            [
+              79.098,
+              23.83
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP-REWA",
+        "name": "Rewa",
+        "state": "Madhya Pradesh",
+        "headquarters": "Rewa",
+        "center": [
+          24.53,
+          81.3
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.715,
+              24.53
+            ],
+            [
+              81.7414,
+              24.7659
+            ],
+            [
+              81.5461,
+              24.9247
+            ],
+            [
+              81.3,
+              24.8981
+            ],
+            [
+              81.0925,
+              24.8628
+            ],
+            [
+              80.8586,
+              24.7659
+            ],
+            [
+              80.8078,
+              24.53
+            ],
+            [
+              80.9557,
+              24.3459
+            ],
+            [
+              81.0925,
+              24.1972
+            ],
+            [
+              81.3,
+              24.0581
+            ],
+            [
+              81.5461,
+              24.1353
+            ],
+            [
+              81.6443,
+              24.3459
+            ],
+            [
+              81.715,
+              24.53
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP-SATNA",
+        "name": "Satna",
+        "state": "Madhya Pradesh",
+        "headquarters": "Satna",
+        "center": [
+          24.58,
+          80.83
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.228,
+              24.58
+            ],
+            [
+              81.2519,
+              24.8055
+            ],
+            [
+              81.063,
+              24.9537
+            ],
+            [
+              80.83,
+              24.9289
+            ],
+            [
+              80.631,
+              24.8991
+            ],
+            [
+              80.4081,
+              24.8055
+            ],
+            [
+              80.364,
+              24.58
+            ],
+            [
+              80.5036,
+              24.4055
+            ],
+            [
+              80.631,
+              24.2609
+            ],
+            [
+              80.83,
+              24.1289
+            ],
+            [
+              81.063,
+              24.2063
+            ],
+            [
+              81.1564,
+              24.4055
+            ],
+            [
+              81.228,
+              24.58
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP-SEHORE",
+        "name": "Sehore",
+        "state": "Madhya Pradesh",
+        "headquarters": "Sehore",
+        "center": [
+          23.2,
+          77.08
+        ],
+        "risk_level": "HIGH",
+        "active_storms": 1,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 72
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3771,
+              23.2
+            ],
+            [
+              77.3634,
+              23.3515
+            ],
+            [
+              77.277,
+              23.516
+            ],
+            [
+              77.08,
+              23.537
+            ],
+            [
+              76.9314,
+              23.4383
+            ],
+            [
+              76.7966,
+              23.3515
+            ],
+            [
+              76.6859,
+              23.2
+            ],
+            [
+              76.7648,
+              23.0315
+            ],
+            [
+              76.9314,
+              22.9617
+            ],
+            [
+              77.08,
+              22.897
+            ],
+            [
+              77.277,
+              22.884
+            ],
+            [
+              77.3952,
+              23.0315
+            ],
+            [
+              77.3771,
+              23.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP-VIDISHA",
+        "name": "Vidisha",
+        "state": "Madhya Pradesh",
+        "headquarters": "Vidisha",
+        "center": [
+          23.52,
+          77.81
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.1313,
+              23.52
+            ],
+            [
+              78.1353,
+              23.6939
+            ],
+            [
+              78.0273,
+              23.8685
+            ],
+            [
+              77.81,
+              23.8722
+            ],
+            [
+              77.6493,
+              23.7777
+            ],
+            [
+              77.4847,
+              23.6939
+            ],
+            [
+              77.3753,
+              23.52
+            ],
+            [
+              77.4806,
+              23.3439
+            ],
+            [
+              77.6493,
+              23.2623
+            ],
+            [
+              77.81,
+              23.1722
+            ],
+            [
+              78.0273,
+              23.1715
+            ],
+            [
+              78.1394,
+              23.3439
+            ],
+            [
+              78.1313,
+              23.52
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP-HOSHANG",
+        "name": "Narmadapuram",
+        "state": "Madhya Pradesh",
+        "headquarters": "Narmadapuram",
+        "center": [
+          22.75,
+          77.72
+        ],
+        "risk_level": "HIGH",
+        "active_storms": 1,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 72
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.088,
+              22.75
+            ],
+            [
+              78.0367,
+              22.9193
+            ],
+            [
+              77.9464,
+              23.1131
+            ],
+            [
+              77.72,
+              23.1714
+            ],
+            [
+              77.536,
+              23.0451
+            ],
+            [
+              77.4033,
+              22.9193
+            ],
+            [
+              77.2672,
+              22.75
+            ],
+            [
+              77.3259,
+              22.5393
+            ],
+            [
+              77.536,
+              22.4549
+            ],
+            [
+              77.72,
+              22.4114
+            ],
+            [
+              77.9464,
+              22.3869
+            ],
+            [
+              78.1141,
+              22.5393
+            ],
+            [
+              78.088,
+              22.75
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MH-MUM",
+        "name": "Mumbai City",
+        "state": "Maharashtra",
+        "headquarters": "Mumbai",
+        "center": [
+          18.96,
+          72.82
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0615,
+              18.96
+            ],
+            [
+              73.0564,
+              19.0864
+            ],
+            [
+              72.9368,
+              19.1474
+            ],
+            [
+              72.82,
+              19.1472
+            ],
+            [
+              72.6992,
+              19.1537
+            ],
+            [
+              72.5836,
+              19.0864
+            ],
+            [
+              72.5863,
+              18.96
+            ],
+            [
+              72.6449,
+              18.8664
+            ],
+            [
+              72.6992,
+              18.7663
+            ],
+            [
+              72.82,
+              18.7072
+            ],
+            [
+              72.9368,
+              18.7726
+            ],
+            [
+              72.9951,
+              18.8664
+            ],
+            [
+              73.0615,
+              18.96
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MH-MUMS",
+        "name": "Mumbai Suburban",
+        "state": "Maharashtra",
+        "headquarters": "Bandra",
+        "center": [
+          19.12,
+          72.85
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.1308,
+              19.12
+            ],
+            [
+              73.1176,
+              19.2631
+            ],
+            [
+              72.9796,
+              19.3278
+            ],
+            [
+              72.85,
+              19.3339
+            ],
+            [
+              72.7096,
+              19.3452
+            ],
+            [
+              72.5824,
+              19.2631
+            ],
+            [
+              72.5908,
+              19.12
+            ],
+            [
+              72.65,
+              19.0131
+            ],
+            [
+              72.7096,
+              18.8948
+            ],
+            [
+              72.85,
+              18.8339
+            ],
+            [
+              72.9796,
+              18.9122
+            ],
+            [
+              73.05,
+              19.0131
+            ],
+            [
+              73.1308,
+              19.12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MH-PUN",
+        "name": "Pune",
+        "state": "Maharashtra",
+        "headquarters": "Pune",
+        "center": [
+          18.52,
+          73.85
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.3638,
+              18.52
+            ],
+            [
+              74.384,
+              18.8055
+            ],
+            [
+              74.1331,
+              18.974
+            ],
+            [
+              73.85,
+              18.949
+            ],
+            [
+              73.5931,
+              18.932
+            ],
+            [
+              73.316,
+              18.8055
+            ],
+            [
+              73.2838,
+              18.52
+            ],
+            [
+              73.4487,
+              18.3055
+            ],
+            [
+              73.5931,
+              18.108
+            ],
+            [
+              73.85,
+              17.949
+            ],
+            [
+              74.1331,
+              18.066
+            ],
+            [
+              74.2513,
+              18.3055
+            ],
+            [
+              74.3638,
+              18.52
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MH-NAG",
+        "name": "Nagpur",
+        "state": "Maharashtra",
+        "headquarters": "Nagpur",
+        "center": [
+          21.14,
+          79.08
+        ],
+        "risk_level": "HIGH",
+        "active_storms": 1,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 72
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.6208,
+              21.14
+            ],
+            [
+              79.4593,
+              21.3428
+            ],
+            [
+              79.2956,
+              21.4857
+            ],
+            [
+              79.08,
+              21.6345
+            ],
+            [
+              78.8096,
+              21.5737
+            ],
+            [
+              78.7007,
+              21.3428
+            ],
+            [
+              78.6488,
+              21.14
+            ],
+            [
+              78.6175,
+              20.8928
+            ],
+            [
+              78.8096,
+              20.7063
+            ],
+            [
+              79.08,
+              20.7345
+            ],
+            [
+              79.2956,
+              20.7943
+            ],
+            [
+              79.5425,
+              20.8928
+            ],
+            [
+              79.6208,
+              21.14
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MH-NSK",
+        "name": "Nashik",
+        "state": "Maharashtra",
+        "headquarters": "Nashik",
+        "center": [
+          19.99,
+          73.78
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.3323,
+              19.99
+            ],
+            [
+              74.2272,
+              20.2291
+            ],
+            [
+              73.9899,
+              20.3266
+            ],
+            [
+              73.78,
+              20.4118
+            ],
+            [
+              73.5039,
+              20.4328
+            ],
+            [
+              73.3328,
+              20.2291
+            ],
+            [
+              73.3603,
+              19.99
+            ],
+            [
+              73.3855,
+              19.7791
+            ],
+            [
+              73.5039,
+              19.5472
+            ],
+            [
+              73.78,
+              19.5118
+            ],
+            [
+              73.9899,
+              19.6534
+            ],
+            [
+              74.1745,
+              19.7791
+            ],
+            [
+              74.3323,
+              19.99
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MH-THN",
+        "name": "Thane",
+        "state": "Maharashtra",
+        "headquarters": "Thane",
+        "center": [
+          19.21,
+          72.97
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.368,
+              19.21
+            ],
+            [
+              73.3433,
+              19.4096
+            ],
+            [
+              73.149,
+              19.4971
+            ],
+            [
+              72.97,
+              19.5109
+            ],
+            [
+              72.771,
+              19.5291
+            ],
+            [
+              72.5967,
+              19.4096
+            ],
+            [
+              72.612,
+              19.21
+            ],
+            [
+              72.6886,
+              19.0596
+            ],
+            [
+              72.771,
+              18.8909
+            ],
+            [
+              72.97,
+              18.8109
+            ],
+            [
+              73.149,
+              18.9229
+            ],
+            [
+              73.2514,
+              19.0596
+            ],
+            [
+              73.368,
+              19.21
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MH-AUR",
+        "name": "Chhatrapati Sambhajinagar",
+        "state": "Maharashtra",
+        "headquarters": "Sambhajinagar",
+        "center": [
+          19.87,
+          75.34
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8881,
+              19.87
+            ],
+            [
+              75.7939,
+              20.1127
+            ],
+            [
+              75.5519,
+              20.2099
+            ],
+            [
+              75.34,
+              20.2847
+            ],
+            [
+              75.0659,
+              20.3095
+            ],
+            [
+              74.8861,
+              20.1127
+            ],
+            [
+              74.9161,
+              19.87
+            ],
+            [
+              74.9521,
+              19.6627
+            ],
+            [
+              75.0659,
+              19.4305
+            ],
+            [
+              75.34,
+              19.3847
+            ],
+            [
+              75.5519,
+              19.5301
+            ],
+            [
+              75.7279,
+              19.6627
+            ],
+            [
+              75.8881,
+              19.87
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DL-ND",
+        "name": "New Delhi",
+        "state": "Delhi",
+        "headquarters": "Connaught Place",
+        "center": [
+          28.61,
+          77.2
+        ],
+        "risk_level": "HIGH",
+        "active_storms": 1,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 72
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.354,
+              28.61
+            ],
+            [
+              77.3204,
+              28.6744
+            ],
+            [
+              77.285,
+              28.7463
+            ],
+            [
+              77.2,
+              28.7812
+            ],
+            [
+              77.123,
+              28.7335
+            ],
+            [
+              77.0796,
+              28.6744
+            ],
+            [
+              77.03,
+              28.61
+            ],
+            [
+              77.0398,
+              28.5244
+            ],
+            [
+              77.123,
+              28.4865
+            ],
+            [
+              77.2,
+              28.4812
+            ],
+            [
+              77.285,
+              28.4737
+            ],
+            [
+              77.3602,
+              28.5244
+            ],
+            [
+              77.354,
+              28.61
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DL-SD",
+        "name": "South Delhi",
+        "state": "Delhi",
+        "headquarters": "Saket",
+        "center": [
+          28.51,
+          77.21
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3767,
+              28.51
+            ],
+            [
+              77.3378,
+              28.5783
+            ],
+            [
+              77.2994,
+              28.6534
+            ],
+            [
+              77.21,
+              28.6933
+            ],
+            [
+              77.1266,
+              28.6437
+            ],
+            [
+              77.0822,
+              28.5783
+            ],
+            [
+              77.0311,
+              28.51
+            ],
+            [
+              77.0385,
+              28.4183
+            ],
+            [
+              77.1266,
+              28.3763
+            ],
+            [
+              77.21,
+              28.3733
+            ],
+            [
+              77.2994,
+              28.3666
+            ],
+            [
+              77.3815,
+              28.4183
+            ],
+            [
+              77.3767,
+              28.51
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DL-NDL",
+        "name": "North Delhi",
+        "state": "Delhi",
+        "headquarters": "Alipur",
+        "center": [
+          28.74,
+          77.13
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2912,
+              28.74
+            ],
+            [
+              77.2596,
+              28.8093
+            ],
+            [
+              77.2222,
+              28.8879
+            ],
+            [
+              77.13,
+              28.9214
+            ],
+            [
+              77.0494,
+              28.8692
+            ],
+            [
+              77.0004,
+              28.8093
+            ],
+            [
+              76.9456,
+              28.74
+            ],
+            [
+              76.9603,
+              28.6493
+            ],
+            [
+              77.0494,
+              28.6108
+            ],
+            [
+              77.13,
+              28.6014
+            ],
+            [
+              77.2222,
+              28.5921
+            ],
+            [
+              77.2997,
+              28.6493
+            ],
+            [
+              77.2912,
+              28.74
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RJ-JAI",
+        "name": "Jaipur",
+        "state": "Rajasthan",
+        "headquarters": "Jaipur",
+        "center": [
+          26.91,
+          75.78
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.3374,
+              26.91
+            ],
+            [
+              76.1879,
+              27.1281
+            ],
+            [
+              75.9873,
+              27.2425
+            ],
+            [
+              75.78,
+              27.3738
+            ],
+            [
+              75.5013,
+              27.3569
+            ],
+            [
+              75.3721,
+              27.1281
+            ],
+            [
+              75.3654,
+              26.91
+            ],
+            [
+              75.3462,
+              26.6781
+            ],
+            [
+              75.5013,
+              26.4631
+            ],
+            [
+              75.78,
+              26.4738
+            ],
+            [
+              75.9873,
+              26.5775
+            ],
+            [
+              76.2138,
+              26.6781
+            ],
+            [
+              76.3374,
+              26.91
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RJ-JOD",
+        "name": "Jodhpur",
+        "state": "Rajasthan",
+        "headquarters": "Jodhpur",
+        "center": [
+          26.23,
+          73.02
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.6321,
+              26.23
+            ],
+            [
+              73.5196,
+              26.4971
+            ],
+            [
+              73.254,
+              26.6052
+            ],
+            [
+              73.02,
+              26.6958
+            ],
+            [
+              72.714,
+              26.7208
+            ],
+            [
+              72.5204,
+              26.4971
+            ],
+            [
+              72.5521,
+              26.23
+            ],
+            [
+              72.5843,
+              25.9971
+            ],
+            [
+              72.714,
+              25.7392
+            ],
+            [
+              73.02,
+              25.6958
+            ],
+            [
+              73.254,
+              25.8548
+            ],
+            [
+              73.4557,
+              25.9971
+            ],
+            [
+              73.6321,
+              26.23
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RJ-UDA",
+        "name": "Udaipur",
+        "state": "Rajasthan",
+        "headquarters": "Udaipur",
+        "center": [
+          24.58,
+          73.71
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.1577,
+              24.58
+            ],
+            [
+              74.1846,
+              24.8337
+            ],
+            [
+              73.9721,
+              25.0004
+            ],
+            [
+              73.71,
+              24.9726
+            ],
+            [
+              73.4861,
+              24.939
+            ],
+            [
+              73.2354,
+              24.8337
+            ],
+            [
+              73.1857,
+              24.58
+            ],
+            [
+              73.3428,
+              24.3837
+            ],
+            [
+              73.4861,
+              24.221
+            ],
+            [
+              73.71,
+              24.0726
+            ],
+            [
+              73.9721,
+              24.1596
+            ],
+            [
+              74.0772,
+              24.3837
+            ],
+            [
+              74.1577,
+              24.58
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RJ-KOT",
+        "name": "Kota",
+        "state": "Rajasthan",
+        "headquarters": "Kota",
+        "center": [
+          25.21,
+          75.86
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.297,
+              25.21
+            ],
+            [
+              76.2901,
+              25.4399
+            ],
+            [
+              76.0735,
+              25.5524
+            ],
+            [
+              75.86,
+              25.5502
+            ],
+            [
+              75.6415,
+              25.5604
+            ],
+            [
+              75.4299,
+              25.4399
+            ],
+            [
+              75.433,
+              25.21
+            ],
+            [
+              75.5418,
+              25.0399
+            ],
+            [
+              75.6415,
+              24.8596
+            ],
+            [
+              75.86,
+              24.7502
+            ],
+            [
+              76.0735,
+              24.8676
+            ],
+            [
+              76.1782,
+              25.0399
+            ],
+            [
+              76.297,
+              25.21
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UP-LKO",
+        "name": "Lucknow",
+        "state": "Uttar Pradesh",
+        "headquarters": "Lucknow",
+        "center": [
+          26.84,
+          80.94
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.4114,
+              26.84
+            ],
+            [
+              81.2882,
+              27.0261
+            ],
+            [
+              81.1147,
+              27.1202
+            ],
+            [
+              80.94,
+              27.2278
+            ],
+            [
+              80.7043,
+              27.218
+            ],
+            [
+              80.5918,
+              27.0261
+            ],
+            [
+              80.5906,
+              26.84
+            ],
+            [
+              80.5773,
+              26.6461
+            ],
+            [
+              80.7043,
+              26.462
+            ],
+            [
+              80.94,
+              26.4678
+            ],
+            [
+              81.1147,
+              26.5598
+            ],
+            [
+              81.3027,
+              26.6461
+            ],
+            [
+              81.4114,
+              26.84
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UP-KNP",
+        "name": "Kanpur Nagar",
+        "state": "Uttar Pradesh",
+        "headquarters": "Kanpur",
+        "center": [
+          26.44,
+          80.33
+        ],
+        "risk_level": "HIGH",
+        "active_storms": 1,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 72
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.8246,
+              26.44
+            ],
+            [
+              80.7187,
+              26.6478
+            ],
+            [
+              80.5147,
+              26.7362
+            ],
+            [
+              80.33,
+              26.8244
+            ],
+            [
+              80.0827,
+              26.8366
+            ],
+            [
+              79.9413,
+              26.6478
+            ],
+            [
+              79.9606,
+              26.44
+            ],
+            [
+              79.9705,
+              26.2478
+            ],
+            [
+              80.0827,
+              26.0434
+            ],
+            [
+              80.33,
+              26.0244
+            ],
+            [
+              80.5147,
+              26.1438
+            ],
+            [
+              80.6895,
+              26.2478
+            ],
+            [
+              80.8246,
+              26.44
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UP-VNS",
+        "name": "Varanasi",
+        "state": "Uttar Pradesh",
+        "headquarters": "Varanasi",
+        "center": [
+          25.31,
+          82.97
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.358,
+              25.31
+            ],
+            [
+              83.3457,
+              25.5108
+            ],
+            [
+              83.154,
+              25.6051
+            ],
+            [
+              82.97,
+              25.6083
+            ],
+            [
+              82.776,
+              25.6211
+            ],
+            [
+              82.5943,
+              25.5108
+            ],
+            [
+              82.602,
+              25.31
+            ],
+            [
+              82.691,
+              25.1608
+            ],
+            [
+              82.776,
+              24.9989
+            ],
+            [
+              82.97,
+              24.9083
+            ],
+            [
+              83.154,
+              25.0149
+            ],
+            [
+              83.249,
+              25.1608
+            ],
+            [
+              83.358,
+              25.31
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UP-AGR",
+        "name": "Agra",
+        "state": "Uttar Pradesh",
+        "headquarters": "Agra",
+        "center": [
+          27.17,
+          78.0
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.4654,
+              27.17
+            ],
+            [
+              78.3314,
+              27.3472
+            ],
+            [
+              78.1777,
+              27.455
+            ],
+            [
+              78.0,
+              27.5756
+            ],
+            [
+              77.7673,
+              27.5432
+            ],
+            [
+              77.6686,
+              27.3472
+            ],
+            [
+              77.6446,
+              27.17
+            ],
+            [
+              77.6206,
+              26.9672
+            ],
+            [
+              77.7673,
+              26.7968
+            ],
+            [
+              78.0,
+              26.8156
+            ],
+            [
+              78.1777,
+              26.885
+            ],
+            [
+              78.3794,
+              26.9672
+            ],
+            [
+              78.4654,
+              27.17
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UP-PRY",
+        "name": "Prayagraj",
+        "state": "Uttar Pradesh",
+        "headquarters": "Prayagraj",
+        "center": [
+          25.43,
+          81.84
+        ],
+        "risk_level": "HIGH",
+        "active_storms": 1,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 72
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.3135,
+              25.43
+            ],
+            [
+              82.2892,
+              25.6701
+            ],
+            [
+              82.0568,
+              25.7778
+            ],
+            [
+              81.84,
+              25.7898
+            ],
+            [
+              81.6032,
+              25.8097
+            ],
+            [
+              81.3908,
+              25.6701
+            ],
+            [
+              81.4063,
+              25.43
+            ],
+            [
+              81.5035,
+              25.2501
+            ],
+            [
+              81.6032,
+              25.0503
+            ],
+            [
+              81.84,
+              24.9498
+            ],
+            [
+              82.0568,
+              25.0822
+            ],
+            [
+              82.1765,
+              25.2501
+            ],
+            [
+              82.3135,
+              25.43
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KA-BLR",
+        "name": "Bengaluru Urban",
+        "state": "Karnataka",
+        "headquarters": "Bengaluru",
+        "center": [
+          12.97,
+          77.59
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.9102,
+              12.97
+            ],
+            [
+              77.888,
+              13.1293
+            ],
+            [
+              77.7323,
+              13.1982
+            ],
+            [
+              77.59,
+              13.2114
+            ],
+            [
+              77.4299,
+              13.2268
+            ],
+            [
+              77.292,
+              13.1293
+            ],
+            [
+              77.3054,
+              12.97
+            ],
+            [
+              77.3642,
+              12.8493
+            ],
+            [
+              77.4299,
+              12.7132
+            ],
+            [
+              77.59,
+              12.6514
+            ],
+            [
+              77.7323,
+              12.7418
+            ],
+            [
+              77.8158,
+              12.8493
+            ],
+            [
+              77.9102,
+              12.97
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KA-MYS",
+        "name": "Mysuru",
+        "state": "Karnataka",
+        "headquarters": "Mysuru",
+        "center": [
+          12.29,
+          76.63
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.0443,
+              12.29
+            ],
+            [
+              77.0581,
+              12.5189
+            ],
+            [
+              76.8548,
+              12.6506
+            ],
+            [
+              76.63,
+              12.6323
+            ],
+            [
+              76.4228,
+              12.6222
+            ],
+            [
+              76.2019,
+              12.5189
+            ],
+            [
+              76.1803,
+              12.29
+            ],
+            [
+              76.3099,
+              12.1189
+            ],
+            [
+              76.4228,
+              11.9578
+            ],
+            [
+              76.63,
+              11.8323
+            ],
+            [
+              76.8548,
+              11.9294
+            ],
+            [
+              76.9501,
+              12.1189
+            ],
+            [
+              77.0443,
+              12.29
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TN-CHN",
+        "name": "Chennai",
+        "state": "Tamil Nadu",
+        "headquarters": "Chennai",
+        "center": [
+          13.08,
+          80.27
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.5599,
+              13.08
+            ],
+            [
+              80.5344,
+              13.2213
+            ],
+            [
+              80.3951,
+              13.2805
+            ],
+            [
+              80.27,
+              13.2973
+            ],
+            [
+              80.1251,
+              13.3125
+            ],
+            [
+              80.0056,
+              13.2213
+            ],
+            [
+              80.0199,
+              13.08
+            ],
+            [
+              80.0667,
+              12.9713
+            ],
+            [
+              80.1251,
+              12.8475
+            ],
+            [
+              80.27,
+              12.7973
+            ],
+            [
+              80.3951,
+              12.8795
+            ],
+            [
+              80.4733,
+              12.9713
+            ],
+            [
+              80.5599,
+              13.08
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TN-CBE",
+        "name": "Coimbatore",
+        "state": "Tamil Nadu",
+        "headquarters": "Coimbatore",
+        "center": [
+          11.01,
+          76.95
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2988,
+              11.01
+            ],
+            [
+              77.3062,
+              11.2004
+            ],
+            [
+              77.186,
+              11.3884
+            ],
+            [
+              76.95,
+              11.3892
+            ],
+            [
+              76.7756,
+              11.2897
+            ],
+            [
+              76.5938,
+              11.2004
+            ],
+            [
+              76.478,
+              11.01
+            ],
+            [
+              76.5954,
+              10.8204
+            ],
+            [
+              76.7756,
+              10.7303
+            ],
+            [
+              76.95,
+              10.6292
+            ],
+            [
+              77.186,
+              10.6316
+            ],
+            [
+              77.3046,
+              10.8204
+            ],
+            [
+              77.2988,
+              11.01
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WB-KOL",
+        "name": "Kolkata",
+        "state": "West Bengal",
+        "headquarters": "Kolkata",
+        "center": [
+          22.57,
+          88.36
+        ],
+        "risk_level": "SEVERE",
+        "active_storms": 2,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 85
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.5583,
+              22.57
+            ],
+            [
+              88.5236,
+              22.6574
+            ],
+            [
+              88.4769,
+              22.7574
+            ],
+            [
+              88.36,
+              22.7951
+            ],
+            [
+              88.2609,
+              22.729
+            ],
+            [
+              88.1964,
+              22.6574
+            ],
+            [
+              88.1263,
+              22.57
+            ],
+            [
+              88.1495,
+              22.4574
+            ],
+            [
+              88.2609,
+              22.411
+            ],
+            [
+              88.36,
+              22.3951
+            ],
+            [
+              88.4769,
+              22.3826
+            ],
+            [
+              88.5705,
+              22.4574
+            ],
+            [
+              88.5583,
+              22.57
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WB-HWR",
+        "name": "Howrah",
+        "state": "West Bengal",
+        "headquarters": "Howrah",
+        "center": [
+          22.59,
+          88.26
+        ],
+        "risk_level": "HIGH",
+        "active_storms": 1,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 72
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.4775,
+              22.59
+            ],
+            [
+              88.4403,
+              22.6864
+            ],
+            [
+              88.3888,
+              22.7966
+            ],
+            [
+              88.26,
+              22.8373
+            ],
+            [
+              88.1512,
+              22.7644
+            ],
+            [
+              88.0797,
+              22.6864
+            ],
+            [
+              88.0023,
+              22.59
+            ],
+            [
+              88.0287,
+              22.4664
+            ],
+            [
+              88.1512,
+              22.4156
+            ],
+            [
+              88.26,
+              22.3973
+            ],
+            [
+              88.3888,
+              22.3834
+            ],
+            [
+              88.4913,
+              22.4664
+            ],
+            [
+              88.4775,
+              22.59
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TG-HYD",
+        "name": "Hyderabad",
+        "state": "Telangana",
+        "headquarters": "Hyderabad",
+        "center": [
+          17.38,
+          78.48
+        ],
+        "risk_level": "MODERATE",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.7097,
+              17.38
+            ],
+            [
+              78.7174,
+              17.5069
+            ],
+            [
+              78.6351,
+              17.6288
+            ],
+            [
+              78.48,
+              17.6262
+            ],
+            [
+              78.3651,
+              17.5642
+            ],
+            [
+              78.2426,
+              17.5069
+            ],
+            [
+              78.1697,
+              17.38
+            ],
+            [
+              78.2497,
+              17.2569
+            ],
+            [
+              78.3651,
+              17.1958
+            ],
+            [
+              78.48,
+              17.1262
+            ],
+            [
+              78.6351,
+              17.1312
+            ],
+            [
+              78.7103,
+              17.2569
+            ],
+            [
+              78.7097,
+              17.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GJ-AMD",
+        "name": "Ahmedabad",
+        "state": "Gujarat",
+        "headquarters": "Ahmedabad",
+        "center": [
+          23.02,
+          72.57
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9653,
+              23.02
+            ],
+            [
+              72.9324,
+              23.2138
+            ],
+            [
+              72.8259,
+              23.4305
+            ],
+            [
+              72.57,
+              23.4725
+            ],
+            [
+              72.3723,
+              23.337
+            ],
+            [
+              72.2076,
+              23.2138
+            ],
+            [
+              72.0581,
+              23.02
+            ],
+            [
+              72.1468,
+              22.7938
+            ],
+            [
+              72.3723,
+              22.703
+            ],
+            [
+              72.57,
+              22.6325
+            ],
+            [
+              72.8259,
+              22.6095
+            ],
+            [
+              72.9932,
+              22.7938
+            ],
+            [
+              72.9653,
+              23.02
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GJ-SUR",
+        "name": "Surat",
+        "state": "Gujarat",
+        "headquarters": "Surat",
+        "center": [
+          21.17,
+          72.83
+        ],
+        "risk_level": "LOW",
+        "active_storms": 0,
+        "lightning_strikes_15m": 3,
+        "thunderstorm_probability": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.2855,
+              21.17
+            ],
+            [
+              73.1491,
+              21.3406
+            ],
+            [
+              73.0127,
+              21.463
+            ],
+            [
+              72.83,
+              21.5888
+            ],
+            [
+              72.6023,
+              21.5352
+            ],
+            [
+              72.5109,
+              21.3406
+            ],
+            [
+              72.4647,
+              21.17
+            ],
+            [
+              72.4383,
+              20.9606
+            ],
+            [
+              72.6023,
+              20.8048
+            ],
+            [
+              72.83,
+              20.8288
+            ],
+            [
+              73.0127,
+              20.877
+            ],
+            [
+              73.2217,
+              20.9606
+            ],
+            [
+              73.2855,
+              21.17
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AS-KAM",
+        "name": "Kamrup Metropolitan",
+        "state": "Assam",
+        "headquarters": "Guwahati",
+        "center": [
+          26.14,
+          91.73
+        ],
+        "risk_level": "HIGH",
+        "active_storms": 1,
+        "lightning_strikes_15m": 18,
+        "thunderstorm_probability": 72
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.0951,
+              26.14
+            ],
+            [
+              92.0331,
+              26.302
+            ],
+            [
+              91.8715,
+              26.3669
+            ],
+            [
+              91.73,
+              26.416
+            ],
+            [
+              91.5475,
+              26.4328
+            ],
+            [
+              91.4269,
+              26.302
+            ],
+            [
+              91.4471,
+              26.14
+            ],
+            [
+              91.4719,
+              26.002
+            ],
+            [
+              91.5475,
+              25.8472
+            ],
+            [
+              91.73,
+              25.816
+            ],
+            [
+              91.8715,
+              25.9131
+            ],
+            [
+              91.9881,
+              26.002
+            ],
+            [
+              92.0951,
+              26.14
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

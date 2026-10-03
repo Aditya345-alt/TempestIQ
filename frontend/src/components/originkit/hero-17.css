@@ -1,0 +1,104 @@
+/* hero-17 — Global Audience globe hero (from diip3sh/sections section-23) */
+
+@import url("https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap");
+
+@theme {
+  --font-instrument-serif: "Instrument Serif", Georgia, serif;
+  --animate-trusted-marquee: trusted-marquee 36s linear infinite;
+}
+
+@keyframes trusted-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes section-18-glow {
+  from {
+    opacity: 0.85;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  @keyframes trusted-marquee {
+    from,
+    to {
+      transform: none;
+    }
+  }
+
+  @keyframes section-18-glow {
+    from,
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+/* Rotating soft-beam border — card frame */
+@property --orbit-angle {
+  syntax: "<angle>";
+  inherits: false;
+  initial-value: 0deg;
+}
+
+@keyframes card-orbit-spin {
+  to {
+    --orbit-angle: 360deg;
+  }
+}
+
+.card-orbit-border {
+  position: relative;
+  isolation: isolate;
+  padding: 1.5px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.card-orbit-border::before,
+.card-orbit-border::after {
+  content: "";
+  position: absolute;
+  inset: -60%;
+  z-index: 0;
+  pointer-events: none;
+  background: conic-gradient(
+    from var(--orbit-angle),
+    transparent 0%,
+    transparent 68%,
+    rgba(129, 187, 255, 0) 72%,
+    rgba(129, 187, 255, 0.25) 80%,
+    rgba(200, 220, 255, 0.7) 88%,
+    rgba(255, 255, 255, 0.95) 92%,
+    rgba(200, 220, 255, 0.7) 96%,
+    rgba(129, 187, 255, 0.25) 99%,
+    transparent 100%
+  );
+  animation: card-orbit-spin 10s linear infinite;
+}
+
+.card-orbit-border::after {
+  filter: blur(10px);
+  opacity: 0.85;
+}
+
+.card-orbit-border__inner {
+  position: relative;
+  z-index: 1;
+  border-radius: inherit;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card-orbit-border::before,
+  .card-orbit-border::after {
+    animation: none;
+    --orbit-angle: 120deg;
+  }
+}
